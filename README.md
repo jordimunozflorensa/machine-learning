@@ -1,4 +1,3 @@
-# Applied Machine Learning
 # Machine Learning Projects Repository
 
 This repository contains a collection of projects demonstrating various concepts, techniques, and applications of machine learning. Each project is aligned with specific competences, objectives, and topics in machine learning, making it a valuable resource for learning and development in this field.
